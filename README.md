@@ -42,7 +42,7 @@ a base principal, mas adicionando:
 1.  Clone este repositório:
 
     ``` bash
-    git clone https://github.com/seu-user/blender-cutout.git
+    git clone https://github.com/seu-user/blender_nuclear-v4.4.3.git
     ```
 
 2.  Siga as instruções de build do Blender oficial (disponíveis em
