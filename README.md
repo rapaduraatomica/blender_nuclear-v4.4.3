@@ -2,7 +2,7 @@
 
 **Nuclear Blender** é um fork customizado do
 [Blender](https://www.blender.org/) desenvolvido para otimizar e ampliar
-o fluxo de trabalho em **animação 2D cut-out**.\
+o fluxo de trabalho em **animação 2D cut-out**.
 Com ajustes profundos e ferramentas dedicadas, este fork transforma o
 Blender em uma solução poderosa e prática para animação **2D baseada em
 recortes (cut-out)**, voltada para artistas e
@@ -12,13 +12,13 @@ desenvolvedores de pipelines criativos.
 
 ## 🚀 Principais Recursos
 
--   ⚡ **Fluxo de trabalho 100% otimizado** para animação cut-out.\
--   🎨 Ferramentas exclusivas para manipulação e controle de rigs 2D.\
--   🔧 Melhorias no Grease Pencil e no sistema de transformações.\
+-   ⚡ **Fluxo de trabalho 100% otimizado** para animação cut-out.
+-   🎨 Ferramentas exclusivas para manipulação e controle de rigs 2D.
+-   🔧 Melhorias no Grease Pencil e no sistema de transformações.
 -   🧩 Integração de gizmos dedicados para manipulação direta de peças
-    (bones, shapes, layers).\
+    (bones, shapes, layers).
 -   🖼️ Controles simplificados para criação, edição e animação de assets
-    cut-out.\
+    cut-out.
 -   🔄 Compatibilidade com add-ons e recursos originais do Blender.
 
 ------------------------------------------------------------------------
@@ -28,11 +28,11 @@ desenvolvedores de pipelines criativos.
 O projeto é um **fork direto do Blender**, mantendo compatibilidade com
 a base principal, mas adicionando:
 
--   **Módulos customizados** para o workflow cut-out.\
+-   **Módulos customizados** para o workflow cut-out.
 -   **Gizmos e bounding boxes** especializados para manipulação de
-    recortes.\
+    recortes.
 -   **Ferramentas de automação** para acelerar a produção de animações
-    2D. \
+    2D. 
 -   **Criação de uma NodeView** para facilitar a hierarquização de objetos na cena.
 
 ------------------------------------------------------------------------
