@@ -45,11 +45,13 @@ a base principal, mas adicionando:
     git clone https://github.com/seu-user/blender_nuclear-v4.4.3.git
     ```
 
-2.  Siga as instruções de build do Blender oficial (disponíveis em
-    [wiki.blender.org/wiki/Building_Blender](https://wiki.blender.org/wiki/Building_Blender)).\
+2. Rode após clone:
 
-3.  Compile com os módulos customizados ativados.
-
+     ``` bash 
+     cd blender_nuclear-v4.4.3
+    ./install-blender.sh
+     ```
+     
 ------------------------------------------------------------------------
 
 ## 📘 Documentação
