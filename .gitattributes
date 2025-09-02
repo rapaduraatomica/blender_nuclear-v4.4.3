@@ -1,1 +1,2 @@
 blender-build.tar.gz filter=lfs diff=lfs merge=lfs -text
+blender_nuclear-v4.4.3_x64_Linux/** filter=lfs diff=lfs merge=lfs -text
