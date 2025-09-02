@@ -39,7 +39,7 @@ a base principal, mas adicionando:
 
 ## 🛠️ Como Compilar
 
-1.  instale o git lfs (ubuntu):
+1.  instale o git lfs:
 
     ``` bash
     sudo apt-get install git-lfs
