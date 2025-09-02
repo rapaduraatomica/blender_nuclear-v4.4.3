@@ -39,19 +39,23 @@ a base principal, mas adicionando:
 
 ## 🛠️ Como Compilar
 
-1.  Clone este repositório:
+1.  instale o git lfs (ubuntu):
 
     ``` bash
-    git clone https://github.com/seu-user/blender_nuclear-v4.4.3.git
+    sudo apt-get install git-lfs
     ```
 
-2. Rode após clone:
+2.  inicialize ele:
 
-     ``` bash 
-     cd blender_nuclear-v4.4.3
-    ./install-blender.sh
-     ```
-     
+    ``` bash
+    git lfs install
+    ```
+
+3.  Clone este repositório:
+  
+    ``` bash
+    git clone https://github.com/seu-user/blender_nuclear-v4.4.3.git
+    ``` 
 ------------------------------------------------------------------------
 
 ## 📘 Documentação
